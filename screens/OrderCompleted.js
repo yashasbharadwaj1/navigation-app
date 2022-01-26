@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-export default function Reastaurantitem() {
+export default function OrderCompleted() {
   return (
     <View>
-      <Text>heloo</Text>
+      <Text>bro</Text>
     </View>
   );
 }

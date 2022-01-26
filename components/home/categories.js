@@ -3,35 +3,34 @@ import React from 'react';
 
 const items = [
     {
-        image: require("../assets/images-20220122T151307Z-001/images/shopping-bag.png"),
+        image: require("../../assets/images-20220122T151307Z-001/images/shopping-bag.png"),
         text: "Pick-up",
     },
     {
-          image: require("../assets/images-20220122T151307Z-001/images/soft-drink.png"),
-          text: "Soft Drinks",
+      image: require("../../assets/images-20220122T151307Z-001/images/soft-drink.png"),
+      text: "Soft Drinks",
     },
     {
-          image: require("../assets/images-20220122T151307Z-001/images/bread.png"),
-          text: "Bakery Items",
-    },
- 
-    {
-        image: require("../assets/images-20220122T151307Z-001/images/fast-food.png"),
-        text: "Fast Foods",
+      image: require("../../assets/images-20220122T151307Z-001/images/bread.png"),
+      text: "Bakery Items",
     },
     {
-        image: require("../assets/images-20220122T151307Z-001/images/deals.png"),
-        text: "Deals",
+      image: require("../../assets/images-20220122T151307Z-001/images/fast-food.png"),
+      text: "Fast Foods",
     },
     {
-        image: require("../assets/images-20220122T151307Z-001/images/coffee.png"),
-        text: "Coffee & Tea",
+      image: require("../../assets/images-20220122T151307Z-001/images/deals.png"),
+      text: "Deals",
     },
     {
-        image: require("../assets/images-20220122T151307Z-001/images/desserts.png"),
-        text: "Desserts",
+      image: require("../../assets/images-20220122T151307Z-001/images/coffee.png"),
+      text: "Coffee & Tea",
     },
-   
+    {
+      image: require("../../assets/images-20220122T151307Z-001/images/desserts.png"),
+      text: "Desserts",
+      },
+  
   
   ]; 
 
